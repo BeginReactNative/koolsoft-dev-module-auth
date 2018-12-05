@@ -1,0 +1,1 @@
+# koolsoft-dev-module-auth
